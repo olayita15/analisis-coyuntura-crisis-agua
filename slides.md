@@ -200,7 +200,7 @@ layout: center
 ---
 ---
 
-<p class="eyebrow">20 · Exteriorización y agitación</p><section class="exteriorization"><div class="slide-video-frame"><video class="slide-video slide-video--portrait" src="/videos/20-exteriorizacion-y-agitacion/titere-en-los-cerros.mp4" controls playsinline preload="metadata" aria-label="Video de agitación con títere en los cerros"></video><span>títere en los cerros · 00:04</span></div><div><span class="platform-symbol">↗</span><h2>Hacer pública<br>la <span class="accent">disputa.</span></h2><p class="lede">La exteriorización traduce el análisis en lenguajes que circulan: conversación, calle, escuela, imagen, teatro y acción colectiva.</p><div class="agitation-lines"><span>Agitación con títeres</span><span>Pedagogía popular</span><span>Intervenciones territoriales</span><span>Material gráfico y digital</span></div></div></section>
+<p class="eyebrow">20 · Exteriorización y agitación</p><section class="exteriorization"><div class="slide-video-frame"><video class="slide-video slide-video--portrait" src="/videos/20-exteriorizacion-y-agitacion/titere-en-los-cerros.mp4" autoplay muted loop controls playsinline preload="metadata" aria-label="Video de agitación con títere en los cerros"></video><span>títere en los cerros · 00:04</span></div><div><span class="platform-symbol">↗</span><h2>Hacer pública<br>la <span class="accent">disputa.</span></h2><p class="lede">La exteriorización traduce el análisis en lenguajes que circulan: conversación, calle, escuela, imagen, teatro y acción colectiva.</p><div class="agitation-lines"><span>Agitación con títeres</span><span>Pedagogía popular</span><span>Intervenciones territoriales</span><span>Material gráfico y digital</span></div></div></section>
 
 ---
 ---
