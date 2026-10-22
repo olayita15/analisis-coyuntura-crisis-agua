@@ -1,28 +1,15 @@
 <script setup lang="ts">
-import { onBeforeUnmount, onMounted } from 'vue'
-const images: Record<string, string> = {
-  'ciclo hídrico + ciudad + trabajo': '/images/01-fractura-metabolica/fractura-metabolica.jpeg',
-  'planta de tratamiento': '/images/05-plantas-de-tratamiento/plantas-de-tratamiento.jpg',
-  'represa o embalse': '/images/10-represas-y-embalses/represas-y-embalses.jpeg',
-  'páramo': '/images/10-paramos/paramos.jpg',
-  'cerros orientales / serranía': '/images/11-cerros/cerros-orientales.jpg',
-  'río / quebrada urbana': '/images/12-cuerpos-de-agua/cuerpos-de-agua.jpeg',
-  'humedal': '/images/13-humedales/humedales.jpg',
-}
-let observer: MutationObserver | undefined
-let queued = false
-function mountImages() {
-  queued = false
-  document.querySelectorAll<HTMLElement>('.image-placeholder').forEach((node) => {
-    const key = node.dataset.imageKey ?? node.innerText.replace(/^IMAGEN A REEMPLAZAR\s*/i, '').trim().toLowerCase()
-    if (!images[key] || node.dataset.imageMounted) return
-    node.dataset.imageKey = key
-    node.dataset.imageMounted = 'true'
-    node.innerHTML = `<img src="${images[key]}" alt="Imagen pendiente: ${key}" />`
-  })
-}
-function schedule() { if (!queued) { queued = true; requestAnimationFrame(mountImages) } }
-onMounted(() => { schedule(); observer = new MutationObserver(schedule); observer.observe(document.body, { childList: true, subtree: true }) })
-onBeforeUnmount(() => observer?.disconnect())
+const base = import.meta.env.BASE_URL
 </script>
-<template />
+
+<template>
+  <div class="presentation-logos" aria-label="Organizaciones participantes">
+    <img :src="`${base}logos/eje.png`" alt="Eje Ambiental">
+    <img :src="`${base}logos/juco.png`" alt="JUCO">
+    <img :src="`${base}logos/regional.png`" alt="Regional">
+  </div>
+</template>
+
+<style>
+:root{--ink:#173b3c;--soft-ink:#506a6b;--canvas:#f5f7f3;--card:#fffefa;--aqua:#167b76;--aqua-pale:#dceeea;--lime:#758b47;--yellow:#a46618;--line:#c5d5d0}.slidev-layout,.chapter{background:var(--canvas)!important;color:var(--ink)}.slidev-layout{position:relative}.slidev-layout:before{background:linear-gradient(90deg,transparent 0,transparent 8%,#167b7608 8.05%,transparent 8.1%)}.chapter .lede{color:var(--soft-ink)}.chapter .eyebrow,.eyebrow{color:var(--yellow)}.accent{color:var(--aqua)}.grid3>div,.historical-cycle article,.research-note,.image-placeholder{background:var(--card);border-color:var(--line)}.historical-cycle p,.research-note span{color:var(--soft-ink)}.slide-image{background:#e6eeeb;border-color:var(--line)}.warning{background:#fff7e6;border-color:#d9bb7a;color:#624b20}.source{color:#6b7e7c}.matrix-head{background:#dceeea;color:#82500f}.coyuntura-matrix{background:#bdd4ce;border-color:#bdd4ce}.coyuntura-matrix section{background:#fffefa}.coyuntura-matrix section p{color:#55706f}.coyuntura-matrix section strong{color:#173b3c}.law-line{background:#eaf4f1;color:#315957}.governance,.chart-frame{background:#fffefa!important;border-color:#c5d5d0!important;color:#173b3c!important}.governance b,.chart-frame h3{color:#173b3c!important}.governance p,.governance li span,.chart-frame header>p:last-child,.chart-frame footer{color:#55706f!important}.governance small,.chart-kicker{color:#a46618!important}.presentation-logos{position:fixed;z-index:20;top:18px;right:28px;display:flex;align-items:center;gap:8px;padding:5px 7px;background:#fffefae8;border:1px solid #c5d5d0;border-radius:3px;box-shadow:0 3px 14px #173b3c14}.presentation-logos img{display:block;width:25px;height:25px;object-fit:contain}.presentation-logos img:nth-child(2){width:43px}.platform-statement{display:grid;grid-template-columns:1.05fr .95fr;gap:32px;align-items:center;max-width:1010px;margin:38px auto 0}.platform-statement__copy{padding-right:28px;border-right:1px solid var(--line)}.platform-statement h2,.platform-restoration h2,.platform-community h2{max-width:620px}.platform-statement p{max-width:530px;color:var(--soft-ink);font-size:.95rem;line-height:1.45}.platform-symbol{display:grid;place-items:center;width:35px;height:35px;margin-bottom:9px;border:1px solid var(--aqua);border-radius:50%;color:var(--aqua);font:1.3rem 'IBM Plex Serif'}.platform-pillars{display:grid;gap:10px}.platform-pillars article{position:relative;padding:12px 15px 12px 54px;background:var(--card);border:1px solid var(--line)}.platform-pillars article>span{position:absolute;left:14px;top:13px;color:var(--yellow);font:500 .65rem 'IBM Plex Mono'}.platform-pillars h3{margin:0 0 3px!important;color:var(--ink)}.platform-pillars p{margin:0;color:var(--soft-ink);font-size:.7rem}.platform-restoration{display:grid;grid-template-columns:.85fr 1.15fr;gap:36px;align-items:center;max-width:1020px;margin:52px auto 0}.platform-actions{display:grid;gap:9px}.platform-actions article,.community-roles article{display:flex;gap:13px;align-items:flex-start;padding:12px 14px;background:var(--card);border:1px solid var(--line)}.platform-actions article>span,.community-roles article>span{display:grid;place-items:center;flex:none;width:27px;height:27px;border-radius:50%;background:var(--aqua-pale);color:var(--aqua);font:1rem 'IBM Plex Serif'}.platform-actions h3,.community-roles h3{margin:0 0 3px!important;font-size:.83rem!important}.platform-actions p,.community-roles p{margin:0;color:var(--soft-ink);font-size:.68rem;line-height:1.3}.platform-community{display:grid;grid-template-columns:1fr 1fr;gap:38px;align-items:center;max-width:1020px;margin:50px auto 0}.community-roles{display:grid;gap:10px}.platform-community .lede{font-size:.92rem;line-height:1.42}
+</style>

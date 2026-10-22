@@ -1,6 +1,7 @@
 ---
 theme: seriph
 title: Reparar el ciclo del agua
+favicon: /favicon.ico
 info: Informe de análisis de coyuntura sobre la crisis del agua en Bogotá
 css: ./styles/index.css
 drawings:
@@ -170,14 +171,17 @@ layout: center
 ---
 ---
 
-<p class="eyebrow">14 · Criterio estructurante</p><div class="grid2"><div><h2>Declarar ecosistemas hídricos estratégicos.</h2><p class="lede">El ordenamiento territorial debe reconocer aquellos territorios indispensables para sostener el ciclo hídrico y la vida, con garantías de permanencia, restauración, ampliación y prioridad presupuestal.</p></div><div class="grid3"><div><h3>Regulación</h3><p>Captar, almacenar, infiltrar y recargar.</p></div><div><h3>Conectividad</h3><p>Conectar agua, especies y ecosistemas.</p></div><div><h3>Riesgo</h3><p>Mitigar sequías, inundaciones y presiones.</p></div></div></div>
-
-<p class="eyebrow">16 · Restaurar y monitorear</p><h2>Restauración permanente,<br>información <span class="accent">verificable</span>.</h2><div class="grid3"><div><h3>Cuerpos transformados</h3><p>Recuperar calidad y funciones ecológicas de cauces canalizados o alterados.</p></div><div><h3>Vertimientos</h3><p>Evitar descargas sin tratamiento y fortalecer control sobre residuos y sustancias.</p></div><div><h3>Fauna y flora</h3><p>Protección, vigilancia y recuperación conectadas con el ciclo del agua.</p></div></div>
+<p class="eyebrow">14 · Criterio estructurante</p><section class="platform-statement"><div class="platform-statement__copy"><span class="platform-symbol">≈</span><h2>Declarar ecosistemas hídricos <span class="accent">estratégicos.</span></h2><p>El ordenamiento territorial debe reconocer los territorios indispensables para sostener el ciclo hídrico y la vida, con permanencia, restauración, ampliación y prioridad presupuestal.</p></div><div class="platform-pillars"><article><span>01</span><h3>Regulación</h3><p>Captar, almacenar, infiltrar y recargar.</p></article><article><span>02</span><h3>Conectividad</h3><p>Conectar agua, especies y ecosistemas.</p></article><article><span>03</span><h3>Riesgo</h3><p>Mitigar sequías, inundaciones y presiones.</p></article></div></section>
 
 ---
 ---
 
-<p class="eyebrow">17 · Red Comunitaria del Agua</p><div class="grid2"><div><h2>La restauración necesita capacidad colectiva.</h2><p class="lede">Comunidades, organizaciones territoriales, colegios y universidades participan en investigación, restauración, monitoreo, educación y veeduría.</p></div><div class="warning"><h3>Figuras propuestas</h3><p><b>Servicio Social Ambiental:</b> vinculación cívica de juventudes.</p><p><b>Cuidadores Comunitarios del Agua:</b> cargo público para monitoreo, prevención, restauración y protección ecosistémica.</p></div></div>
+<p class="eyebrow">16 · Restaurar y monitorear</p><section class="platform-restoration"><div><span class="platform-symbol">↻</span><h2>Restauración permanente,<br>información <span class="accent">verificable.</span></h2></div><div class="platform-actions"><article><span>⌁</span><div><h3>Cuerpos transformados</h3><p>Recuperar calidad y funciones ecológicas de cauces canalizados o alterados.</p></div></article><article><span>↓</span><div><h3>Vertimientos</h3><p>Evitar descargas sin tratamiento y fortalecer el control sobre residuos y sustancias.</p></div></article><article><span>✣</span><div><h3>Fauna y flora</h3><p>Proteger, vigilar y recuperar en conexión con el ciclo del agua.</p></div></article></div></section>
+
+---
+---
+
+<p class="eyebrow">17 · Red Comunitaria del Agua</p><section class="platform-community"><div><span class="platform-symbol">◌</span><h2>La restauración necesita <span class="accent">capacidad colectiva.</span></h2><p class="lede">Comunidades, organizaciones territoriales, colegios y universidades participan en investigación, restauración, monitoreo, educación y veeduría.</p></div><div class="community-roles"><article><span>↗</span><div><h3>Servicio Social Ambiental</h3><p>Vinculación cívica de juventudes.</p></div></article><article><span>⌁</span><div><h3>Cuidadores Comunitarios del Agua</h3><p>Cargo público para monitoreo, prevención, restauración y protección ecosistémica.</p></div></article></div></section>
 
 ---
 layout: center
