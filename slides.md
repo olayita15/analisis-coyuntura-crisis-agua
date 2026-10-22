@@ -78,12 +78,7 @@ layout: center
 layout: center
 ---
 
-<p class="eyebrow">Capítulo II · Base material</p><h1>Medios de producción<br>y crisis del agua</h1><p class="lede">Captar, potabilizar, distribuir, evacuar y controlar: cada infraestructura media la relación entre ciudad, trabajo y agua.</p>
-
----
----
-
-<p class="eyebrow">Capítulo II · Subcapítulo</p><h1>Medios de<br><span class="accent">producción.</span></h1><p class="lede">Infraestructuras, redes y fuentes que median la relación entre ciudad, trabajo y agua.</p><aside class="task-callout task-callout--improve"><i>↗</i><div><b>Por mejorar · nueva ronda documental</b><span>Realizar una nueva serie de derechos de petición para actualizar responsables, operación, inversiones, daños y controles.</span></div></aside>
+<p class="eyebrow">Capítulo II · Base material</p><h1>Medios de producción<br>y crisis del agua</h1><p class="lede">Captar, potabilizar, distribuir, evacuar y controlar: cada infraestructura media la relación entre ciudad, trabajo y agua.</p><aside class="task-callout task-callout--improve"><i>↗</i><div><b>Por mejorar · nueva ronda documental</b><span>Realizar una nueva serie de derechos de petición para actualizar responsables, operación, inversiones, daños y controles.</span></div></aside>
 
 ---
 ---
