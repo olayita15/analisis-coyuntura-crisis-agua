@@ -1,0 +1,7 @@
+<script setup lang="ts">defineProps<{ index:number; section:string; source?:string }>()</script>
+<template>
+  <section class="slide"><header><img src="/logos/eje.png" alt="Eje Ambiental"/><span>{{ section }}</span><img src="/logos/juco.png" alt="Juventud Comunista de Colombia"/></header><main><slot /></main><footer><span v-if="source">Fuente: {{ source }}</span><span>{{ String(index).padStart(2, '0') }} / 12</span></footer></section>
+</template>
+<style scoped>
+.slide{height:100%;min-height:100%;display:grid;grid-template-rows:54px 1fr 42px;padding:0 clamp(24px,5vw,84px);background:radial-gradient(circle at 88% 10%,#14535b 0,transparent 26%),linear-gradient(135deg,#082c32,#061b21);overflow:auto}.slide:before{content:'';position:absolute;inset:0;opacity:.07;pointer-events:none;background-image:linear-gradient(90deg,var(--aqua) 1px,transparent 1px),linear-gradient(var(--aqua) 1px,transparent 1px);background-size:64px 64px}header,footer{position:relative;z-index:1;display:flex;align-items:center;gap:14px;color:var(--aqua);font-size:.75rem;letter-spacing:.13em;text-transform:uppercase}header img{max-height:29px;max-width:98px;object-fit:contain}header span{margin-right:auto}footer{justify-content:space-between;border-top:1px solid var(--line)}main{position:relative;z-index:1;align-content:center;max-width:1280px;width:100%;margin:auto;padding:18px 0 28px}@media(max-width:700px){.slide{padding:0 22px;grid-template-rows:48px 1fr 36px}header img{max-width:70px}footer{font-size:.6rem}}
+</style>

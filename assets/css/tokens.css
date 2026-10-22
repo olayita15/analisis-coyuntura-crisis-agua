@@ -1,0 +1,2 @@
+:root { --ink:#102d34; --deep:#06242a; --water:#4db5c4; --aqua:#b8ece9; --leaf:#9ac65c; --sun:#f5c65e; --paper:#f7f5ee; --muted:#618087; --line:rgba(184,236,233,.22); font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+* { box-sizing:border-box; } body { margin:0; background:var(--deep); color:var(--paper); } button { font:inherit; }
