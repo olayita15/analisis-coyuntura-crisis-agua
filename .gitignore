@@ -29,3 +29,11 @@ pnpm-debug.log*
 .codex/
 .data/
 ignore/
+
+# Capas fuente de reserva: conservar localmente hasta que una diapositiva las use
+public/data/maps/bogota-distrito.esri.json
+public/data/maps/bogota-localidades.esri.json
+public/data/maps/cobertura-vegetal-humedales.geojson
+public/data/maps/cuerpos-de-agua.geojson
+public/data/maps/ronda-hidraulica.geojson
+public/data/maps/sistema-hidrico.geojson
