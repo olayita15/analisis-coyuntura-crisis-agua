@@ -43,14 +43,13 @@ layout: center
 <p class="eyebrow">Capítulo I · Ideología</p>
 <h1>La tesis es la fractura metabólica en Bogotá</h1>
 <p class="lede">El ser humano habita el territorio que actualmente es Bogotá desde hace 12 mil años atrás. Ha convivido y coexistido con un territorio profundamente anfibio.</p>
-<p class="source">Base: Conclusiones Eje Ambiental 2025–2026; Análisis coyuntural, sección 2.</p>
 
 ---
 ---
 
 <p class="eyebrow">01 · Tesis de partida</p>
 <div class="grid2"><div><h2>Una lectura <span class="accent">materialista</span> de la ciudad</h2><div class="thesis-pair"><p class="lede"><b>Antes de la urbanización moderna,</b> Bogotá era un territorio profundamente hídrico: la vida humana estaba entrelazada con sus aguas, suelos y ecosistemas.</p><p class="lede"><b>La fractura metabólica</b> aparece cuando la planificación colonial y el crecimiento urbano subordinan esos ciclos a relaciones de producción que perturban la reproducción de la vida.</p></div><aside class="research-note"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"/><path d="m16 16 4 4"/></svg><div><b>Investigación opcional</b><span>Complementar esta tesis con archivo histórico, memoria comunitaria y evidencia territorial sobre la transformación de los ciclos del agua.</span></div></aside></div><img class="slide-image" src="/images/01-fractura-metabolica/fractura-metabolica.jpeg" alt="Ciclo hídrico, ciudad y trabajo"></div>
-<aside class="task-callout task-callout--required"><i>!</i><div><b>Tarea necesaria · investigar</b><span>Construir el soporte histórico, territorial y documental de esta tesis antes de presentarla como una periodización cerrada.</span></div></aside><p class="source">Base conceptual: Marx; lectura de Foster retomada en Conclusiones Eje Ambiental 2026.</p>
+<aside class="task-callout task-callout--required"><i>!</i><div><b>Tarea necesaria · investigar</b><span>Construir el soporte histórico, territorial y documental de esta tesis antes de presentarla como una periodización cerrada.</span></div></aside>
 
 ---
 ---
@@ -159,13 +158,13 @@ layout: center
 ---
 ---
 
-<p class="eyebrow">Transición</p><h2>El agua conecta infraestructura, ecosistemas y decisiones políticas.</h2><div class="grid3"><div><h3>Ver</h3><p>Reconocer el sistema territorial más allá de los límites distritales.</p></div><div><h3>Documentar</h3><p>Combinar datos oficiales, recorridos y monitoreo comunitario.</p></div><div><h3>Disputar</h3><p>Definir una plataforma para transformar esas condiciones.</p></div></div><p class="source">Siguiente capítulo: Plataforma Propuesta del Eje Ambiental.</p>
+<p class="eyebrow">Transición</p><h2>El agua conecta infraestructura, ecosistemas y decisiones políticas.</h2><div class="grid3"><div><h3>Ver</h3><p>Reconocer el sistema territorial más allá de los límites distritales.</p></div><div><h3>Documentar</h3><p>Combinar datos oficiales, recorridos y monitoreo comunitario.</p></div><div><h3>Disputar</h3><p>Definir una plataforma para transformar esas condiciones.</p></div></div>
 
 ---
 layout: center
 ---
 
-<p class="eyebrow">Capítulo III · Plataforma propuesta</p><h1>Discusión y ampliación de propuestas<br>para nuestra <span class="accent">plataforma política del agua.</span></h1><p class="lede">Una plataforma para recuperar progresivamente las funciones del ciclo hídrico deterioradas por la urbanización.</p><aside class="task-callout task-callout--pending"><i>?</i><div><b>Pendiente · discusión necesaria</b><span>Abrir una discusión que permita precisar qué queremos, ampliar las propuestas y acordar prioridades para la plataforma.</span></div></aside><p class="source">Base: Plataforma Propuesta Eje Ambiental (5).</p>
+<p class="eyebrow">Capítulo III · Plataforma propuesta</p><h1>Discusión y ampliación de propuestas<br>para nuestra <span class="accent">plataforma política del agua.</span></h1><p class="lede">Una plataforma para recuperar progresivamente las funciones del ciclo hídrico deterioradas por la urbanización.</p><aside class="task-callout task-callout--pending"><i>?</i><div><b>Pendiente · discusión necesaria</b><span>Abrir una discusión que permita precisar qué queremos, ampliar las propuestas y acordar prioridades para la plataforma.</span></div></aside>
 
 ---
 ---
