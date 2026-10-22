@@ -16,48 +16,9 @@ drawings:
 </div>
 
 ---
-layout: center
 ---
 
-<p class="eyebrow">Capítulo I · Ideología</p>
-<h1>La tesis es la fractura metabólica en Bogotá</h1>
-<p class="lede">El ser humano habita el territorio que actualmente es Bogotá desde hace 12 mil años atrás. Ha convivido y coexistido con un territorio profundamente anfibio.</p>
-<p class="source">Base: Conclusiones Eje Ambiental 2025–2026; Análisis coyuntural, sección 2.</p>
-
----
----
-
-<p class="eyebrow">01 · Tesis de partida</p>
-<div class="grid2"><div><h2>Una lectura <span class="accent">materialista</span> de la ciudad</h2><div class="thesis-pair"><p class="lede"><b>Antes de la urbanización moderna,</b> Bogotá era un territorio profundamente hídrico: la vida humana estaba entrelazada con sus aguas, suelos y ecosistemas.</p><p class="lede"><b>La fractura metabólica</b> aparece cuando la planificación colonial y el crecimiento urbano subordinan esos ciclos a relaciones de producción que perturban la reproducción de la vida.</p></div><aside class="research-note"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"/><path d="m16 16 4 4"/></svg><div><b>Investigación opcional</b><span>Complementar esta tesis con archivo histórico, memoria comunitaria y evidencia territorial sobre la transformación de los ciclos del agua.</span></div></aside></div><img class="slide-image" src="/images/01-fractura-metabolica/fractura-metabolica.jpeg" alt="Ciclo hídrico, ciudad y trabajo"></div>
-<p class="source">Base conceptual: Marx; lectura de Foster retomada en Conclusiones Eje Ambiental 2026.</p>
-
----
----
-
-<p class="eyebrow">02 · Historia y planificación</p>
-<h2>Una secuencia histórica de la<br><span class="accent">ruptura metabólica hídrica.</span></h2>
-<div class="historical-cycle"><article><b>≈ 12.000 AÑOS</b><h3>Territorio de agua</h3><p>La Sabana se configura como un sistema de ríos, lagunas, humedales, bosques y suelos de recarga: ecosistemas que almacenan, filtran, conectan y regulan el agua.</p></article><article><b>COLONIZACIÓN</b><h3>Primer choque</h3><p>La apropiación colonial reordena tierra, trabajo y agua. Cambian los usos del suelo y se subordinan las relaciones territoriales a nuevas jerarquías de propiedad y extracción.</p></article><article><b>PLANIFICACIÓN URBANA</b><h3>Ordenar la expansión</h3><p>La ciudad crece sobre su red hídrica: canaliza quebradas, rellena humedales, fragmenta rondas y convierte el agua en una infraestructura subordinada al crecimiento urbano.</p></article><article><b>MODELO URBANO IMPUESTO</b><h3>Profundizar la fractura</h3><p>La rentabilidad inmobiliaria, la expansión y la gestión sectorizada separan el abastecimiento urbano de la regeneración de los ecosistemas que sostienen el ciclo del agua.</p></article></div>
-<aside class="research-note research-note--wide"><div><b>Investigación pendiente · necesaria para consolidar la tesis</b><span>Precisar, con archivo histórico, arqueología, cartografía y memoria comunitaria, <strong>cuándo y mediante qué decisiones</strong> se produjo la ruptura del metabolismo hídrico de Bogotá. Los cuatro momentos son una hipótesis narrativa, no una periodización cerrada.</span></div></aside>
-
----
----
-
-<p class="eyebrow">03 · Advertencia política</p>
-<div class="grid2"><div><h2>Cuidado con el ecofascimo.</h2><p class="lede">Los relatos malthusianos convierten a las personas en un problema abstracto. Eso borra las relaciones de clase, la apropiación desigual y las decisiones que organizan la producción y el territorio.</p></div><div class="warning"><h3>Precisión</h3><p>Nuestro materialismo histórico nos permite pensar que la humanidad es parte de la naturaleza. Justamente, el relato idealista busca divinizar o crear una excepcionalidad inexistente en el ser humano.</p></div></div>
-
----
----
-
-<p class="eyebrow">04 · Conclusión ideológica</p>
-<p class="quote">“Si el ciclo hídrico de la ciudad está roto, la tarea es repararlo.”</p>
-<div class="grid3"><div><h3>¿Qué es reparar?</h3><p>¿Cómo restituir la regulación, la recarga, la conectividad y la calidad del ciclo hídrico en la ciudad?</p></div><div><h3>¿Qué es apropiarse?</h3><p>¿Qué implica gestionar colectivamente los medios de producción y los bienes naturales que hacen posible ese ciclo?</p></div><div><h3>¿Qué ciudad planificar?</h3><p>¿Cómo subordinar la expansión urbana, la infraestructura y el presupuesto a la reproducción de la vida?</p></div></div>
-<div class="footer-line"></div><p class="lede">Estas preguntas no se resuelven en abstracto: exigen estudiar quién controla, opera y decide sobre las infraestructuras, los ecosistemas y el territorio. El siguiente capítulo aborda esa base material de la crisis.</p>
-
----
-layout: center
----
-
-<p class="eyebrow">Capítulo II · Base material</p><h1>Medios de producción<br>y crisis del agua</h1><p class="lede">Captar, potabilizar, distribuir, evacuar y controlar: cada infraestructura media la relación entre ciudad, trabajo y agua.</p>
+<p class="eyebrow">Guía de lectura</p><section class="deck-guide"><div><h2>Índice de la<br><span class="accent">presentación.</span></h2><p class="lede">Una lectura que va de la tesis ideológica al diagnóstico material, la plataforma y el debate táctico.</p></div><ol><li><b>01</b><span>Fractura metabólica e historia territorial</span></li><li><b>02</b><span>Infraestructuras, bienes naturales y ecosistemas</span></li><li><b>03</b><span>Discusión y ampliación de la plataforma del agua</span></li><li><b>04</b><span>Organización, exteriorización y plan de acción</span></li></ol></section><section class="task-legend"><p>Señales de trabajo a lo largo de la presentación</p><div><span class="task-callout task-callout--required"><i>!</i><b>Necesario</b><em>acción que toca realizar</em></span><span class="task-callout task-callout--improve"><i>↗</i><b>Por mejorar</b><em>profundizar o corregir</em></span><span class="task-callout task-callout--pending"><i>?</i><b>Pendiente</b><em>decisión o evidencia abierta</em></span></div></section>
 
 ---
 ---
@@ -79,7 +40,50 @@ layout: center
 layout: center
 ---
 
-<p class="eyebrow">Capítulo II · Subcapítulo</p><h1>Medios de<br><span class="accent">producción.</span></h1><p class="lede">Infraestructuras, redes y fuentes que median la relación entre ciudad, trabajo y agua.</p>
+<p class="eyebrow">Capítulo I · Ideología</p>
+<h1>La tesis es la fractura metabólica en Bogotá</h1>
+<p class="lede">El ser humano habita el territorio que actualmente es Bogotá desde hace 12 mil años atrás. Ha convivido y coexistido con un territorio profundamente anfibio.</p>
+<p class="source">Base: Conclusiones Eje Ambiental 2025–2026; Análisis coyuntural, sección 2.</p>
+
+---
+---
+
+<p class="eyebrow">01 · Tesis de partida</p>
+<div class="grid2"><div><h2>Una lectura <span class="accent">materialista</span> de la ciudad</h2><div class="thesis-pair"><p class="lede"><b>Antes de la urbanización moderna,</b> Bogotá era un territorio profundamente hídrico: la vida humana estaba entrelazada con sus aguas, suelos y ecosistemas.</p><p class="lede"><b>La fractura metabólica</b> aparece cuando la planificación colonial y el crecimiento urbano subordinan esos ciclos a relaciones de producción que perturban la reproducción de la vida.</p></div><aside class="research-note"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"/><path d="m16 16 4 4"/></svg><div><b>Investigación opcional</b><span>Complementar esta tesis con archivo histórico, memoria comunitaria y evidencia territorial sobre la transformación de los ciclos del agua.</span></div></aside></div><img class="slide-image" src="/images/01-fractura-metabolica/fractura-metabolica.jpeg" alt="Ciclo hídrico, ciudad y trabajo"></div>
+<aside class="task-callout task-callout--required"><i>!</i><div><b>Tarea necesaria · investigar</b><span>Construir el soporte histórico, territorial y documental de esta tesis antes de presentarla como una periodización cerrada.</span></div></aside><p class="source">Base conceptual: Marx; lectura de Foster retomada en Conclusiones Eje Ambiental 2026.</p>
+
+---
+---
+
+<p class="eyebrow">02 · Historia y planificación</p>
+<h2>Una secuencia histórica de la<br><span class="accent">ruptura metabólica hídrica.</span></h2>
+<div class="historical-cycle"><article><b>≈ 12.000 AÑOS</b><h3>Territorio de agua</h3><p>La Sabana se configura como un sistema de ríos, lagunas, humedales, bosques y suelos de recarga: ecosistemas que almacenan, filtran, conectan y regulan el agua.</p></article><article><b>COLONIZACIÓN</b><h3>Primer choque</h3><p>La apropiación colonial reordena tierra, trabajo y agua. Cambian los usos del suelo y se subordinan las relaciones territoriales a nuevas jerarquías de propiedad y extracción.</p></article><article><b>PLANIFICACIÓN URBANA</b><h3>Ordenar la expansión</h3><p>La ciudad crece sobre su red hídrica: canaliza quebradas, rellena humedales, fragmenta rondas y convierte el agua en una infraestructura subordinada al crecimiento urbano.</p></article><article><b>MODELO URBANO IMPUESTO</b><h3>Profundizar la fractura</h3><p>La rentabilidad inmobiliaria, la expansión y la gestión sectorizada separan el abastecimiento urbano de la regeneración de los ecosistemas que sostienen el ciclo del agua.</p></article></div>
+<aside class="research-note research-note--wide"><div><b>Investigación pendiente · necesaria para consolidar la tesis</b><span>Precisar, con archivo histórico, arqueología, cartografía y memoria comunitaria, <strong>cuándo y mediante qué decisiones</strong> se produjo la ruptura del metabolismo hídrico de Bogotá. Los cuatro momentos son una hipótesis narrativa, no una periodización cerrada.</span></div></aside>
+
+---
+---
+
+<p class="eyebrow">03 · Advertencia política</p>
+<div class="grid2"><div><h2>Cuidado con el ecofascimo.</h2><p class="lede">Los relatos malthusianos convierten a las personas en un problema abstracto. Eso borra las relaciones de clase, la apropiación desigual y las decisiones que organizan la producción y el territorio.</p></div><div class="warning"><h3>Precisión</h3><p>Nuestro materialismo histórico nos permite pensar que la humanidad es parte de la naturaleza. Justamente, el relato idealista busca divinizar o crear una excepcionalidad inexistente en el ser humano.</p></div></div><aside class="task-callout task-callout--improve"><i>↗</i><div><b>Por mejorar · ecomarxismo</b><span>Realizar debates y estudios colectivos sobre ecomarxismo para precisar esta crítica y sus consecuencias políticas.</span></div></aside>
+
+---
+---
+
+<p class="eyebrow">04 · Conclusión ideológica</p>
+<p class="quote">“Si el ciclo hídrico de la ciudad está roto, la tarea es repararlo.”</p>
+<div class="grid3"><div><h3>¿Qué es reparar?</h3><p>¿Cómo restituir la regulación, la recarga, la conectividad y la calidad del ciclo hídrico en la ciudad?</p></div><div><h3>¿Qué es apropiarse?</h3><p>¿Qué implica gestionar colectivamente los medios de producción y los bienes naturales que hacen posible ese ciclo?</p></div><div><h3>¿Qué ciudad planificar?</h3><p>¿Cómo subordinar la expansión urbana, la infraestructura y el presupuesto a la reproducción de la vida?</p></div></div>
+<div class="footer-line"></div><p class="lede">Estas preguntas no se resuelven en abstracto: exigen estudiar quién controla, opera y decide sobre las infraestructuras, los ecosistemas y el territorio. El siguiente capítulo aborda esa base material de la crisis.</p>
+
+---
+layout: center
+---
+
+<p class="eyebrow">Capítulo II · Base material</p><h1>Medios de producción<br>y crisis del agua</h1><p class="lede">Captar, potabilizar, distribuir, evacuar y controlar: cada infraestructura media la relación entre ciudad, trabajo y agua.</p>
+
+---
+---
+
+<p class="eyebrow">Capítulo II · Subcapítulo</p><h1>Medios de<br><span class="accent">producción.</span></h1><p class="lede">Infraestructuras, redes y fuentes que median la relación entre ciudad, trabajo y agua.</p><aside class="task-callout task-callout--improve"><i>↗</i><div><b>Por mejorar · nueva ronda documental</b><span>Realizar una nueva serie de derechos de petición para actualizar responsables, operación, inversiones, daños y controles.</span></div></aside>
 
 ---
 ---
@@ -166,7 +170,7 @@ layout: center
 layout: center
 ---
 
-<p class="eyebrow">Capítulo III · Plataforma propuesta</p><h1>Ordenar Bogotá<br><span class="accent">alrededor del agua</span></h1><p class="lede">Una plataforma para recuperar progresivamente las funciones del ciclo hídrico deterioradas por la urbanización.</p><p class="source">Base: Plataforma Propuesta Eje Ambiental (5).</p>
+<p class="eyebrow">Capítulo III · Plataforma propuesta</p><h1>Discusión y ampliación de propuestas<br>para nuestra <span class="accent">plataforma política del agua.</span></h1><p class="lede">Una plataforma para recuperar progresivamente las funciones del ciclo hídrico deterioradas por la urbanización.</p><aside class="task-callout task-callout--pending"><i>?</i><div><b>Pendiente · discusión necesaria</b><span>Abrir una discusión que permita precisar qué queremos, ampliar las propuestas y acordar prioridades para la plataforma.</span></div></aside><p class="source">Base: Plataforma Propuesta Eje Ambiental (5).</p>
 
 ---
 ---
@@ -202,9 +206,9 @@ layout: center
 ---
 ---
 
-<p class="eyebrow">20 · Exteriorización y agitación</p><section class="exteriorization"><div class="puppet-photo-slot"><span>FOTOGRAFÍA A REEMPLAZAR</span><b>títere · agitación ambiental</b></div><div><span class="platform-symbol">↗</span><h2>Hacer pública<br>la <span class="accent">disputa.</span></h2><p class="lede">La exteriorización traduce el análisis en lenguajes que circulan: conversación, calle, escuela, imagen, teatro y acción colectiva.</p><div class="agitation-lines"><span>Agitación con títeres</span><span>Pedagogía popular</span><span>Intervenciones territoriales</span><span>Material gráfico y digital</span></div></div></section>
+<p class="eyebrow">20 · Exteriorización y agitación</p><section class="exteriorization"><div class="puppet-photo-slot"><span>FOTOGRAFÍA A REEMPLAZAR</span><b>títere · agitación ambiental</b></div><div><span class="platform-symbol">↗</span><h2>Hacer pública<br>la <span class="accent">disputa.</span></h2><p class="lede">La exteriorización traduce el análisis en lenguajes que circulan: conversación, calle, escuela, imagen, teatro y acción colectiva.</p><div class="agitation-lines"><span>Agitación con títeres</span><span>Pedagogía popular</span><span>Intervenciones territoriales</span><span>Material gráfico y digital</span></div></div></section><aside class="task-callout task-callout--required"><i>!</i><div><b>Tarea necesaria · avanzar el análisis</b><span>Preparar una nueva ronda de derechos de petición para alimentar la agitación con información actualizada y verificable.</span></div></aside>
 
 ---
 ---
 
-<p class="eyebrow">21 · Plan de acción por acordar</p><section class="action-debate"><header><span class="platform-symbol">?</span><h2>De la conversación<br>al <span class="accent">primer paso.</span></h2></header><div><article><b>Inmediato</b><p>Convocar el encuentro y organizar el diagnóstico compartido.</p></article><article><b>Corto plazo</b><p>Definir acciones de exteriorización, formación y seguimiento territorial.</p></article><article><b>Mediano plazo</b><p>Conectar organización social con disputas institucionales concretas.</p></article><article><b>Abierto</b><p>Revisar colectivamente el rumbo según la coyuntura y la fuerza acumulada.</p></article></div><p class="debate-banner">No es una hoja de ruta definitiva: es una propuesta para ser discutida, ajustada y asumida colectivamente.</p></section>
+<p class="eyebrow">21 · Plan de acción por acordar</p><section class="action-debate"><header><span class="platform-symbol">?</span><h2>De la conversación<br>al <span class="accent">primer paso.</span></h2></header><div><article><b>Inmediato</b><p>Convocar el encuentro y organizar el diagnóstico compartido.</p></article><article><b>Corto plazo</b><p>Definir acciones de exteriorización, formación y seguimiento territorial.</p></article><article><b>Mediano plazo</b><p>Conectar organización social con disputas institucionales concretas.</p></article><article><b>Abierto</b><p>Revisar colectivamente el rumbo según la coyuntura y la fuerza acumulada.</p></article></div><p class="debate-banner">No es una hoja de ruta definitiva: es una propuesta para ser discutida, ajustada y asumida colectivamente.</p></section><aside class="task-callout task-callout--required"><i>!</i><div><b>Tarea necesaria · plan de acción</b><span>Discusión del Eje Ambiental para definir cómo llegar a lo que queremos y trasladar el acuerdo a la Comisión Política.</span></div></aside>
