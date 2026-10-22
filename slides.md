@@ -66,13 +66,19 @@ layout: center
   <section><b>ECONÓMICO</b><p><span class="concept-line"><ConceptTooltip kind="production" /> <strong>Medios de producción</strong></span><span class="concept-line"><ConceptTooltip kind="nature" /> <strong>Bienes naturales</strong></span>Relación semiprivada y modelo neoliberal de expansión urbana.</p></section>
   <section><b>ECONÓMICO</b><p><span class="concept-line"><ConceptTooltip kind="production" /> <strong>Medios de producción</strong>: gestión, administración, conocimiento y disfrute públicos.</span><span class="concept-line"><ConceptTooltip kind="nature" /> <strong>Ecosistemas estratégicos</strong>: regulación, protección y restauración.</span></p></section>
   <section><b>ECONÓMICO</b><p><strong>Punto de debate</strong><span class="debate-line">Definir plazos de disputa: inmediato, corto, mediano y largo plazo.</span></p></section>
-  <section><b>POLÍTICO</b><p><span class="concept-line"><ConceptTooltip kind="law" /> <strong>Marco legal vigente</strong></span><span class="law-line">Ley 99 de 1993 · Sistema Nacional Ambiental</span><span class="law-line">Ley 142 de 1994 · Servicios públicos domiciliarios</span></p></section>
+  <section><b>POLÍTICO</b><p><span class="concept-line"><ConceptTooltip kind="law" label="Normas de referencia" :items="['Decreto 2811 de 1974 · Código Nacional de Recursos Naturales Renovables','Ley 357 de 1997 · Convención Ramsar','Ley 1930 de 2018 · Gestión integral de páramos','Ley 99 de 1993 · Sistema Nacional Ambiental','Ley 373 de 1997 · Uso eficiente y ahorro del agua','Ley 142 de 1994 · Servicios públicos domiciliarios','Acuerdo 859 de 2022 · Humedales de Bogotá','Decreto 555 de 2021 · POT Bogotá Reverdece 2024','Decreto 1575 de 2007 · Calidad del agua para consumo humano','Resolución 2115 de 2007 · Características del agua potable','Resolución 0330 de 2017 · Reglamento técnico RAS','Resolución 1256 de 2021 · Uso de aguas residuales tratadas']" /> <strong>Marco legal vigente</strong></span>Normas, entidades y decisiones que regulan los medios de producción y los bienes naturales.</p></section>
   <section><b>POLÍTICO</b><p><span class="concept-line"><ConceptTooltip kind="law" /> <strong>Leyes garantes</strong></span>Un marco que priorice el ciclo hídrico, junto con una <strong>plataforma política</strong> para orientar su cumplimiento y transformación.</p></section>
   <section><b>POLÍTICO</b><p><span class="concept-line"><ConceptTooltip kind="action" /> <strong>Punto de debate</strong></span><span class="debate-line">Acordar plazos, responsables y escalas: inmediato, corto, mediano y largo plazo.</span></p></section>
   <section><b>IDEOLÓGICO</b><p><span class="concept-line"><ConceptTooltip kind="idea" /> <strong>Sentido común vigente</strong></span>Los bienes naturales aparecen separados de la sociedad y de la planificación: decorado, no condición urgente de la vida colectiva.</p></section>
   <section><b>IDEOLÓGICO</b><p><span class="concept-line"><ConceptTooltip kind="idea" /> <strong>Fractura metabólica</strong></span>Sociedad y naturaleza forman una relación material que debe ser reparada, no administrada como exterioridad.</p></section>
   <section><b>IDEOLÓGICO</b><p><span class="concept-line"><ConceptTooltip kind="action" /> <strong>Disputa de hegemonía</strong></span><span class="debate-line">Agitación, educación, cultura y organización para transformar el sentido común.</span></p></section>
 </div>
+
+---
+layout: center
+---
+
+<p class="eyebrow">Capítulo II · Subcapítulo</p><h1>Medios de<br><span class="accent">producción.</span></h1><p class="lede">Infraestructuras, redes y fuentes que median la relación entre ciudad, trabajo y agua.</p>
 
 ---
 ---

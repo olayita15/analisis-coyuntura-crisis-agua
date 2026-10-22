@@ -3,6 +3,8 @@ import { onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import * as echarts from 'echarts'
 // Componente regional independiente para que Slidev pueda recargarlo por HMR.
 
+const mapUrl = (file: string) => `${import.meta.env.BASE_URL}data/maps/${file}`
+
 type GeoJson = { type: 'FeatureCollection'; features: Array<{ type: 'Feature'; properties?: Record<string, unknown>; geometry: { coordinates: unknown } }> }
 type Layer = 'affectation' | 'alerts' | 'projects'
 type Evidence = { layer: Layer; level: number; label: string; impact: string; response: string; date: string; url: string }
@@ -45,8 +47,8 @@ async function render() {
     let mapData = cache.__ejeRegionalMap
     if (!mapData) {
       const [cundinamarca, bogota] = await Promise.all([
-        fetch('/data/maps/cundinamarca-municipios.geojson').then(r => r.json() as Promise<GeoJson>),
-        fetch('/data/maps/bogota-distrito.geojson').then(r => r.json() as Promise<GeoJson>),
+        fetch(mapUrl('cundinamarca-municipios.geojson')).then(r => r.json() as Promise<GeoJson>),
+        fetch(mapUrl('bogota-distrito.geojson')).then(r => r.json() as Promise<GeoJson>),
       ])
       const raw = [...cundinamarca.features, ...bogota.features]
       const positions = raw.flatMap(feature => allPoints(feature.geometry.coordinates))

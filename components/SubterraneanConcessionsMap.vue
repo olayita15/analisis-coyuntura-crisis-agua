@@ -3,6 +3,8 @@ import { onBeforeUnmount, onMounted, ref } from 'vue'
 import * as echarts from 'echarts'
 // Componente de mapa de concesiones: mantener este archivo como módulo Vue independiente para HMR de Slidev.
 
+const mapUrl = (file: string) => `${import.meta.env.BASE_URL}data/maps/${file}`
+
 type Point = { properties: Record<string, string>; geometry: { coordinates: [number, number] } }
 type Match = { status: 'exacta' | 'operador'; concession: string; volume: string; note: string }
 type MarkerMeta = Match & { code: string; locality: string; state: string; variant?: string; distinct?: boolean }
@@ -34,9 +36,9 @@ let observer: ResizeObserver | undefined
 async function render() {
   if (!el.value || chart || !el.value.clientWidth) return
   const [boundary, points, localities] = await Promise.all([
-    fetch('/data/maps/bogota-distrito.geojson').then(r => r.json()),
-    fetch('/data/maps/bogota-puntos-agua-subterranea.geojson').then(r => r.json()),
-    fetch('/data/maps/bogota-localidades.geojson').then(r => r.json()),
+    fetch(mapUrl('bogota-distrito.geojson')).then(r => r.json()),
+    fetch(mapUrl('bogota-puntos-agua-subterranea.geojson')).then(r => r.json()),
+    fetch(mapUrl('bogota-localidades.geojson')).then(r => r.json()),
   ])
   if (!el.value || chart) return
   const ring = boundary.features[0].geometry.coordinates[0] as [number, number][]

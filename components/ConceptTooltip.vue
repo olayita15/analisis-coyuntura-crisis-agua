@@ -1,5 +1,5 @@
 <script setup lang="ts">
-defineProps<{ kind: 'production' | 'nature' | 'law' | 'idea' | 'action'; label?: string }>()
+defineProps<{ kind: 'production' | 'nature' | 'law' | 'idea' | 'action'; label?: string; items?: string[] }>()
 
 const content = {
   production: {
@@ -34,7 +34,7 @@ const content = {
       <svg v-else-if="kind === 'idea'" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a7 7 0 0 0-4.2 12.6V18h8.4v-3.4A7 7 0 0 0 12 2Zm-2.2 14.7v-3l-.8-.5A5 5 0 1 1 15 13.2l-.8.5v3H9.8ZM9 20h6v2H9v-2Z"/></svg>
       <svg v-else viewBox="0 0 24 24" aria-hidden="true"><path d="m21 7-9 10-5-5 1.4-1.4 3.5 3.5L19.5 5 21 7ZM3 4h12v2H3V4Zm0 14h12v2H3v-2Z"/></svg>
     </span>
-    <span class="concept-tooltip__content" role="tooltip"><b>{{ content[kind].label }}</b>{{ content[kind].detail }}</span>
+    <span class="concept-tooltip__content" :class="{ 'concept-tooltip__content--list': items?.length }" role="tooltip"><b>{{ label || content[kind].label }}</b><template v-if="items?.length"><ul><li v-for="item in items" :key="item">{{ item }}</li></ul></template><template v-else>{{ content[kind].detail }}</template></span>
   </span>
 </template>
 
@@ -44,5 +44,6 @@ const content = {
 .concept-tooltip__trigger svg{width:12px;height:12px;fill:currentColor}
 .concept-tooltip__content{pointer-events:none;opacity:0;position:absolute;z-index:60;left:0;bottom:calc(100% + 7px);width:244px;padding:9px 10px;background:#0c1417;border:1px solid #526665;color:#afbfba;font-size:.61rem;line-height:1.35;box-shadow:0 12px 28px #0008;transition:opacity .15s}
 .concept-tooltip__content b{display:block;color:#dfbb72;margin-bottom:4px}
+.concept-tooltip__content ul{margin:0;padding:0;list-style:none}.concept-tooltip__content li{margin:0 0 4px}.concept-tooltip__content li:last-child{margin-bottom:0}.concept-tooltip__content--list{width:410px}.concept-tooltip__content--list ul{columns:2;column-gap:18px}.concept-tooltip__content--list li{break-inside:avoid}
 .concept-tooltip:hover .concept-tooltip__content,.concept-tooltip:focus-within .concept-tooltip__content{opacity:1}
 </style>
