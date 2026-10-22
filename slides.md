@@ -134,7 +134,7 @@ layout: center
 layout: center
 ---
 
-<p class="eyebrow">Capítulo II · Condiciones naturales de producción</p><h1>Ecosistemas estratégicos:<br>el agua como <span class="accent">ciclo vivo</span></h1><p class="lede">Este es el mismo capítulo de medios de producción: no son recursos aislados, sino entornos que participan en la regulación, recarga, circulación y calidad del agua de la ciudad-región.</p>
+<p class="eyebrow">Capítulo II · Condiciones naturales de producción</p><h1>Ecosistemas estratégicos:<br>el agua como <span class="accent">ciclo vivo</span></h1><p class="lede">Este es el mismo capítulo de medios de producción: no son recursos aislados, sino entornos que participan en la regulación, recarga, circulación y calidad del agua de la ciudad-región.</p><aside class="task-callout task-callout--required"><i>!</i><div><b>Tarea necesaria · avanzar el análisis</b><span>Realizar una nueva ronda de derechos de petición para actualizar el análisis sobre condiciones naturales de producción y sus entidades responsables.</span></div></aside>
 
 ---
 ---
@@ -201,7 +201,7 @@ layout: center
 ---
 ---
 
-<p class="eyebrow">20 · Exteriorización y agitación</p><section class="exteriorization"><div class="puppet-photo-slot"><span>FOTOGRAFÍA A REEMPLAZAR</span><b>títere · agitación ambiental</b></div><div><span class="platform-symbol">↗</span><h2>Hacer pública<br>la <span class="accent">disputa.</span></h2><p class="lede">La exteriorización traduce el análisis en lenguajes que circulan: conversación, calle, escuela, imagen, teatro y acción colectiva.</p><div class="agitation-lines"><span>Agitación con títeres</span><span>Pedagogía popular</span><span>Intervenciones territoriales</span><span>Material gráfico y digital</span></div></div></section><aside class="task-callout task-callout--required"><i>!</i><div><b>Tarea necesaria · avanzar el análisis</b><span>Preparar una nueva ronda de derechos de petición para alimentar la agitación con información actualizada y verificable.</span></div></aside>
+<p class="eyebrow">20 · Exteriorización y agitación</p><section class="exteriorization"><div class="puppet-photo-slot"><span>FOTOGRAFÍA A REEMPLAZAR</span><b>títere · agitación ambiental</b></div><div><span class="platform-symbol">↗</span><h2>Hacer pública<br>la <span class="accent">disputa.</span></h2><p class="lede">La exteriorización traduce el análisis en lenguajes que circulan: conversación, calle, escuela, imagen, teatro y acción colectiva.</p><div class="agitation-lines"><span>Agitación con títeres</span><span>Pedagogía popular</span><span>Intervenciones territoriales</span><span>Material gráfico y digital</span></div></div></section>
 
 ---
 ---
